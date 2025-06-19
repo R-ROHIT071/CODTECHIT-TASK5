@@ -1,4 +1,18 @@
-Task 4 – Cloud Security Implementation
+CLOUD COMPUTING
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : R ROHIT
+
+INTERN ID : CT06DG1575
+
+DOMAIN : CLOUD
+
+DURATION : 6WEEKS
+
+MENTOR : Neela Santhosh Kumar
+
+DESCRIPTION OF TASK :-> Task 4 – Cloud Security Implementation
 1. IAM User + Policy
 - Created IAM user: `s3-read-user`
 - Gave it the AWS-managed policy: `AmazonS3ReadOnlyAccess`
