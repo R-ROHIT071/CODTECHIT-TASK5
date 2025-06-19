@@ -21,3 +21,11 @@ Task 4 – Cloud Security Implementation
 - AES-256 Encryption
 - Bucket Policy (JSON)
 
+ATTACHED IMAGES 1-4->
+![Image](https://github.com/user-attachments/assets/b4cd9656-d004-4daa-a3d7-d20bffebebfb)
+
+![Image](https://github.com/user-attachments/assets/b41ab6f0-bb4d-4e1b-8dee-307ced767bcd)
+
+![Image](https://github.com/user-attachments/assets/35f1d6cc-7b8b-440c-8645-c8da6ce58dba)
+
+![Image](https://github.com/user-attachments/assets/a8020f69-7f9b-4b98-9ba6-640f61d6cc3d)
